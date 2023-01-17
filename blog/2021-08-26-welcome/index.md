@@ -1,6 +1,6 @@
 ---
-slug: Welcome to "Beyond the Lab: Exploring the Intersection of Science and Spirituality
-title: welcome-to-beyond-the-lab
+slug: welcome-to-beyond-the-lab
+title: Welcome to "Beyond the Lab - Exploring the Intersection of Science and Spirituality
 authors: [slorber, yangshun]
 tags: [Science and Spirituality,
 Consciousness Studies,
@@ -8,7 +8,7 @@ Mindfulness practices,
 Meditation,
 Quantum Physics,
 Philosophy of Science,
-Neuroscience.
+Neuroscience,
 Mystical experiences,
 Integrative approaches,
 Transpersonal psychology,
